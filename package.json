@@ -1,0 +1,22 @@
+{
+  "name": "node-library-lab1",
+  "version": "1.0.0",
+  "description": "creating npm package",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nshathish/node-library-lab1.git"
+  },
+  "author": "nshathish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nshathish/node-library-lab1/issues"
+  },
+  "homepage": "https://github.com/nshathish/node-library-lab1#readme",
+  "dependencies": {
+    "unique-random-array": "^2.0.0"
+  }
+}
